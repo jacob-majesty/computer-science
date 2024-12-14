@@ -1,8 +1,6 @@
 # computer-science
 Programming documents for personal study
 
-Here’s a "For education purpose only" disclaimer you can use:
-
 ---
 
 **Disclaimer**  
